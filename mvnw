@@ -7,3 +7,4 @@ if [ ! -f ".mvn/wrapper/maven-wrapper.jar" ]; then
 fi
 
 exec java -jar .mvn/wrapper/maven-wrapper.jar "$@"
+
